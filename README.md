@@ -1,6 +1,6 @@
 # Lab 1 -- Learning to use Java Math, Input, and Output
 
-* 30 points										
+* 35 points										
 * Due: 9/22/2023 11:59 PM New York Time
 
 ## Purpose: 
