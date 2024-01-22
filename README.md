@@ -101,6 +101,7 @@ You will write your program in the "pair programming" mode: one of you is the dr
 2. To Moodle in the Lab1 assignment (only one partner needs to do this): 
 
 a. An Excel file with your test cases. 
+
 b. Algorithm in algorithm.txt  
 
  
