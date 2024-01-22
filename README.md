@@ -102,7 +102,7 @@ You will write your program in the "pair programming" mode: one is the driver, w
 ## What to Submit:
 
 1. **To GitHub:**  
-   - Completed `.java` file.
+   a. Completed `.java` file.
 
 2. **To Moodle in the Lab1 assignment** (only one partner needs to do this):  
    a. An Excel file with your test cases.  
