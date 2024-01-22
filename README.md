@@ -62,21 +62,21 @@ Thanks for your visit. Have a day.
 
 ## Reminders: 
 
-You will write your program in the "pair programming" mode: one of you is the driver while the other is the navigator.
+You will write your program in the "pair programming" mode: one is the driver, while the other is the navigator.
 
-1.  Make sure you *understand the problem* you are being asked to solve. What is the input(s), output(s), and calculation(s)?
+1.  Ensure you *understand the problem* you are being asked to solve. What is the input(s), output(s), and calculation(s)?
 
-2.  *Write Test Cases*: create a series of test cases in Excel to use to determine that your program works correctly.  Ideally, have excel calculate the answer for you.
+2.  *Write Test Cases*: create a series of test cases in Excel to use to determine that your program works correctly.  Ideally, have Excel calculate the answer for you.
 
-3.  *Complete the algorithm* for your calculations that is started in algorithm.txt. **Whoever didn't type the majority of the test cases, should type the algorithm** Your program should do ALL of the calculations for you, and should work for ANY valid inputs. You do not need to do error checking, yet.
+3.  *Complete the algorithm* for your calculations that are started in algorithm.txt. **Whoever didn't type the majority of the test cases should type the algorithm** Your program should do ALL of the calculations for you and should work for ANY valid inputs. You do not need to do error checking yet.
 
-4.  *Code*: Create a new Java file, and follow your algorithm to write your code. You may assume that your input will always be of the correct type. Whoever has done the least typing at this point should start as driver.
+4.  *Code*: Create a new Java file and follow your algorithm to write your code. You may assume that your input will always be of the correct type. Whoever has done the least typing at this point should start as the driver.
 
 5.  *Fix compiler errors*: Run your program and fix any errors that appear.
 
-6.  *Test:* Once your code runs and you think itâ€™s complete, test it using your test cases -- run, give the input value as input, and see if you get the right output. If not, you need to fix the error(s) in your code!
+6.  *Test:* Once your code runs and you think it is complete, test it using your test cases -- run, give the input value as input, and see if you get the right output. If not, you need to fix the error(s) in your code!
 
-7.  Make sure youâ€™ve created a human readable essay (i.e. your program). Did you follow the code readability guidelines? If not, fix your code so that it is readable. You should have comments above each chunk of code!
+7. Make sure you created a human-readable essay (i.e., your program). Did you follow the code readability guidelines? If not, fix your code so that it is readable. You should have comments above each chunk of code!
 
 8.  Include an updated version of the intro comments below at the very top of your Python file. Do not include the brackets `[` and `]` but replace them with what is asked for inside of them. Be sure to keep the titles at the start of each line. 
   ```
