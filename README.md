@@ -94,15 +94,13 @@ You will write your program in the "pair programming" mode: one of you is the dr
 
 ## What to Submit:
 
-1.  To GitHub:  
-    Completed .java file.  
-    
+1. **To GitHub:**  
+   - Completed `.java` file.
 
-2. To Moodle in the Lab1 assignment (only one partner needs to do this): 
+2. **To Moodle in the Lab1 assignment** (only one partner needs to do this):  
+   a. An Excel file with your test cases.  
+   b. Algorithm in `algorithm.txt`
 
-a. An Excel file with your test cases. 
-
-b. Algorithm in algorithm.txt  
 
  
 
