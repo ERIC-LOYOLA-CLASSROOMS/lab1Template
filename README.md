@@ -97,7 +97,7 @@ You will write your program in the "pair programming" mode: one is the driver, w
   # Credits: [Is your code based on an example in the book, in class, or something else?]
   ```
 
-9.  Once you are done in lab, even if you havenâ€™t finished the assignment yet, you need to Commit and Push your changes, and upload your test cases to Moodle.
+9.  Once you are done in lab, even if you have not finished the assignment yet, you need to Commit and Push your changes, and upload your test cases to Moodle.
 
 ## What to Submit:
 
